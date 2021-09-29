@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Rename resource &apos;TDC1000_level_PC_Commn/main_level.c&apos; to &apos;main_level_tdc1000.c&apos;" description="Rename resource &apos;main_level.c&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="main_level.c" name="main_level_tdc1000.c" stamp="1391462022089" updateReferences="true"/>&#x0A;<refactoring comment="Rename resource &apos;TDC1000_level_PC_Commn/state_machine.c&apos; to &apos;state_machine_tdc1000.c&apos;" description="Rename resource &apos;state_machine.c&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="state_machine.c" name="state_machine_tdc1000.c" stamp="1391462039497" updateReferences="true"/>
+</session>

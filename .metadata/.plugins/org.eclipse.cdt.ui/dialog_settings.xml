@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item value="Default C source template" key="LastUsedSourceTemplate"/>
+	<item value="Default C header template" key="LastUsedHeaderTemplate"/>
+	<section name="completion_proposal_size">
+	</section>
+	<section name="PDOMSearchPage">
+		<item value="227191" key="searchFlags"/>
+		<item value="false" key="caseSensitive"/>
+		<list key="previousPatterns">
+			<item value="GPATOGGLEbitGPIO8"/>
+			<item value="scia_fifo_init"/>
+			<item value="number_of_stops_received"/>
+			<item value="c_task_data2host_pending"/>
+			<item value="first"/>
+			<item value="TI_LMP91400_SPIWriteReg"/>
+			<item value="save_ovflow_count"/>
+			<item value="PieVectTable"/>
+			<item value="EnableDog"/>
+			<item value="watch"/>
+			<item value="reset"/>
+			<item value="hrcap_pwm_init"/>
+			<item value="timer_trigger_freq"/>
+			<item value="level_demo_relay_control"/>
+			<item value="InitEPwmGpio"/>
+			<item value="InitEPwm1Gpio"/>
+			<item value="GpioDataRegsGPADATbitGPIO1"/>
+			<item value="temp_measure_state"/>
+			<item value="c_task_timeout"/>
+			<item value="GPIO8"/>
+			<item value="GPIO4"/>
+			<item value="GPIO2"/>
+			<item value="GPIO1"/>
+			<item value="LSPCLK"/>
+			<item value="count_per_temp"/>
+			<item value="nsamp_done"/>
+			<item value="measure_one_temp"/>
+			<item value="interleaved_temp_measure"/>
+			<item value="overflow_count"/>
+			<item value="new_overflow_flag"/>
+			<item value="tof_graph_state"/>
+			<item value="single_shot_measure_state"/>
+			<item value="HRPWM1_Config"/>
+			<item value="HRCAP2_Config"/>
+			<item value="PLL2_SYSCLK2DIV2DIS"/>
+			<item value="pulse_array_updated"/>
+			<item value="A0"/>
+			<item value="timer"/>
+			<item value="Upper_Limit"/>
+			<item value="sprintf"/>
+			<item value="start_cap"/>
+			<item value="scia_msg"/>
+			<item value="total_counter"/>
+			<item value="array_index"/>
+			<item value="LOPSCP"/>
+			<item value="GPIO22"/>
+			<item value="GPIO19"/>
+			<item value="CpuTimer0"/>
+			<item value="mSec0_05"/>
+			<item value="mSec0_01"/>
+			<item value="A_Task_Ptr"/>
+			<item value="VTimer0"/>
+			<item value="FIRST_PULSE_WIDTH"/>
+			<item value="status"/>
+			<item value="spi_xmit"/>
+		</list>
+	</section>
+	<section name="org.eclipse.cdt.ui.OPEN_ACTION_SELECTION_DIALOG_SECTION">
+		<item value="526" key="DIALOG_WIDTH"/>
+		<item value="120" key="DIALOG_Y_ORIGIN"/>
+		<item value="917" key="DIALOG_X_ORIGIN"/>
+		<item value="573" key="DIALOG_HEIGHT"/>
+		<item value="1|Segoe UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI" key="DIALOG_FONT_NAME"/>
+	</section>
+	<section name="org.eclipse.cdt.ui.text.hover.CMacroExpansionExploration">
+	</section>
+</section>

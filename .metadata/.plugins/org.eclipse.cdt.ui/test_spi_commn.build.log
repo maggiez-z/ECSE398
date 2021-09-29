@@ -1,0 +1,63 @@
+
+**** Build of configuration Debug for project test_spi_commn ****
+
+"C:\\ti\\ccsv5\\utils\\bin\\gmake" -k all 
+'Building file: C:/Users/a0415888/Documents/pwd/GIT_REPOS/C2000/c2000_lmp91400/DSP2803x_common/source/DSP2803x_CodeStartBranch.asm'
+'Invoking: C2000 Compiler'
+"C:/ti/ccsv5/tools/compiler/c2000_6.2.0/bin/cl2000" -v28 -ml -mt --cla_support=cla0 --include_path="C:/ti/ccsv5/tools/compiler/c2000_6.2.0/include" --include_path="C:/Users/a0415888/Documents/pwd/GIT_REPOS/C2000/c2000_lmp91400/DSP2803x_common/include" --include_path="C:/Users/a0415888/Documents/pwd/GIT_REPOS/C2000/c2000_lmp91400/DSP2803x_headers/include" --include_path="C:/Users/a0415888/Documents/pwd/GIT_REPOS/C2000/c2000_lmp91400/code/common_files" -g --define="_DEBUG" --define="LARGE_MODEL" --diag_warning=225 --display_error_number --diag_wrap=off --preproc_with_compile --preproc_dependency="DSP2803x_CodeStartBranch.pp"  "C:/Users/a0415888/Documents/pwd/GIT_REPOS/C2000/c2000_lmp91400/DSP2803x_common/source/DSP2803x_CodeStartBranch.asm"
+'Finished building: C:/Users/a0415888/Documents/pwd/GIT_REPOS/C2000/c2000_lmp91400/DSP2803x_common/source/DSP2803x_CodeStartBranch.asm'
+' '
+'Building file: C:/Users/a0415888/Documents/pwd/GIT_REPOS/C2000/c2000_lmp91400/DSP2803x_common/source/DSP2803x_DefaultIsr.c'
+'Invoking: C2000 Compiler'
+"C:/ti/ccsv5/tools/compiler/c2000_6.2.0/bin/cl2000" -v28 -ml -mt --cla_support=cla0 --include_path="C:/ti/ccsv5/tools/compiler/c2000_6.2.0/include" --include_path="C:/Users/a0415888/Documents/pwd/GIT_REPOS/C2000/c2000_lmp91400/DSP2803x_common/include" --include_path="C:/Users/a0415888/Documents/pwd/GIT_REPOS/C2000/c2000_lmp91400/DSP2803x_headers/include" --include_path="C:/Users/a0415888/Documents/pwd/GIT_REPOS/C2000/c2000_lmp91400/code/common_files" -g --define="_DEBUG" --define="LARGE_MODEL" --diag_warning=225 --display_error_number --diag_wrap=off --preproc_with_compile --preproc_dependency="DSP2803x_DefaultIsr.pp"  "C:/Users/a0415888/Documents/pwd/GIT_REPOS/C2000/c2000_lmp91400/DSP2803x_common/source/DSP2803x_DefaultIsr.c"
+'Finished building: C:/Users/a0415888/Documents/pwd/GIT_REPOS/C2000/c2000_lmp91400/DSP2803x_common/source/DSP2803x_DefaultIsr.c'
+' '
+'Building file: C:/Users/a0415888/Documents/pwd/GIT_REPOS/C2000/c2000_lmp91400/DSP2803x_headers/source/DSP2803x_GlobalVariableDefs.c'
+'Invoking: C2000 Compiler'
+"C:/ti/ccsv5/tools/compiler/c2000_6.2.0/bin/cl2000" -v28 -ml -mt --cla_support=cla0 --include_path="C:/ti/ccsv5/tools/compiler/c2000_6.2.0/include" --include_path="C:/Users/a0415888/Documents/pwd/GIT_REPOS/C2000/c2000_lmp91400/DSP2803x_common/include" --include_path="C:/Users/a0415888/Documents/pwd/GIT_REPOS/C2000/c2000_lmp91400/DSP2803x_headers/include" --include_path="C:/Users/a0415888/Documents/pwd/GIT_REPOS/C2000/c2000_lmp91400/code/common_files" -g --define="_DEBUG" --define="LARGE_MODEL" --diag_warning=225 --display_error_number --diag_wrap=off --preproc_with_compile --preproc_dependency="DSP2803x_GlobalVariableDefs.pp"  "C:/Users/a0415888/Documents/pwd/GIT_REPOS/C2000/c2000_lmp91400/DSP2803x_headers/source/DSP2803x_GlobalVariableDefs.c"
+'Finished building: C:/Users/a0415888/Documents/pwd/GIT_REPOS/C2000/c2000_lmp91400/DSP2803x_headers/source/DSP2803x_GlobalVariableDefs.c'
+' '
+'Building file: C:/Users/a0415888/Documents/pwd/GIT_REPOS/C2000/c2000_lmp91400/DSP2803x_common/source/DSP2803x_PieCtrl.c'
+'Invoking: C2000 Compiler'
+"C:/ti/ccsv5/tools/compiler/c2000_6.2.0/bin/cl2000" -v28 -ml -mt --cla_support=cla0 --include_path="C:/ti/ccsv5/tools/compiler/c2000_6.2.0/include" --include_path="C:/Users/a0415888/Documents/pwd/GIT_REPOS/C2000/c2000_lmp91400/DSP2803x_common/include" --include_path="C:/Users/a0415888/Documents/pwd/GIT_REPOS/C2000/c2000_lmp91400/DSP2803x_headers/include" --include_path="C:/Users/a0415888/Documents/pwd/GIT_REPOS/C2000/c2000_lmp91400/code/common_files" -g --define="_DEBUG" --define="LARGE_MODEL" --diag_warning=225 --display_error_number --diag_wrap=off --preproc_with_compile --preproc_dependency="DSP2803x_PieCtrl.pp"  "C:/Users/a0415888/Documents/pwd/GIT_REPOS/C2000/c2000_lmp91400/DSP2803x_common/source/DSP2803x_PieCtrl.c"
+'Finished building: C:/Users/a0415888/Documents/pwd/GIT_REPOS/C2000/c2000_lmp91400/DSP2803x_common/source/DSP2803x_PieCtrl.c'
+' '
+'Building file: C:/Users/a0415888/Documents/pwd/GIT_REPOS/C2000/c2000_lmp91400/DSP2803x_common/source/DSP2803x_PieVect.c'
+'Invoking: C2000 Compiler'
+"C:/ti/ccsv5/tools/compiler/c2000_6.2.0/bin/cl2000" -v28 -ml -mt --cla_support=cla0 --include_path="C:/ti/ccsv5/tools/compiler/c2000_6.2.0/include" --include_path="C:/Users/a0415888/Documents/pwd/GIT_REPOS/C2000/c2000_lmp91400/DSP2803x_common/include" --include_path="C:/Users/a0415888/Documents/pwd/GIT_REPOS/C2000/c2000_lmp91400/DSP2803x_headers/include" --include_path="C:/Users/a0415888/Documents/pwd/GIT_REPOS/C2000/c2000_lmp91400/code/common_files" -g --define="_DEBUG" --define="LARGE_MODEL" --diag_warning=225 --display_error_number --diag_wrap=off --preproc_with_compile --preproc_dependency="DSP2803x_PieVect.pp"  "C:/Users/a0415888/Documents/pwd/GIT_REPOS/C2000/c2000_lmp91400/DSP2803x_common/source/DSP2803x_PieVect.c"
+'Finished building: C:/Users/a0415888/Documents/pwd/GIT_REPOS/C2000/c2000_lmp91400/DSP2803x_common/source/DSP2803x_PieVect.c'
+' '
+'Building file: C:/Users/a0415888/Documents/pwd/GIT_REPOS/C2000/c2000_lmp91400/DSP2803x_common/source/DSP2803x_Spi.c'
+'Invoking: C2000 Compiler'
+"C:/ti/ccsv5/tools/compiler/c2000_6.2.0/bin/cl2000" -v28 -ml -mt --cla_support=cla0 --include_path="C:/ti/ccsv5/tools/compiler/c2000_6.2.0/include" --include_path="C:/Users/a0415888/Documents/pwd/GIT_REPOS/C2000/c2000_lmp91400/DSP2803x_common/include" --include_path="C:/Users/a0415888/Documents/pwd/GIT_REPOS/C2000/c2000_lmp91400/DSP2803x_headers/include" --include_path="C:/Users/a0415888/Documents/pwd/GIT_REPOS/C2000/c2000_lmp91400/code/common_files" -g --define="_DEBUG" --define="LARGE_MODEL" --diag_warning=225 --display_error_number --diag_wrap=off --preproc_with_compile --preproc_dependency="DSP2803x_Spi.pp"  "C:/Users/a0415888/Documents/pwd/GIT_REPOS/C2000/c2000_lmp91400/DSP2803x_common/source/DSP2803x_Spi.c"
+'Finished building: C:/Users/a0415888/Documents/pwd/GIT_REPOS/C2000/c2000_lmp91400/DSP2803x_common/source/DSP2803x_Spi.c'
+' '
+'Building file: C:/Users/a0415888/Documents/pwd/GIT_REPOS/C2000/c2000_lmp91400/DSP2803x_common/source/DSP2803x_SysCtrl.c'
+'Invoking: C2000 Compiler'
+"C:/ti/ccsv5/tools/compiler/c2000_6.2.0/bin/cl2000" -v28 -ml -mt --cla_support=cla0 --include_path="C:/ti/ccsv5/tools/compiler/c2000_6.2.0/include" --include_path="C:/Users/a0415888/Documents/pwd/GIT_REPOS/C2000/c2000_lmp91400/DSP2803x_common/include" --include_path="C:/Users/a0415888/Documents/pwd/GIT_REPOS/C2000/c2000_lmp91400/DSP2803x_headers/include" --include_path="C:/Users/a0415888/Documents/pwd/GIT_REPOS/C2000/c2000_lmp91400/code/common_files" -g --define="_DEBUG" --define="LARGE_MODEL" --diag_warning=225 --display_error_number --diag_wrap=off --preproc_with_compile --preproc_dependency="DSP2803x_SysCtrl.pp"  "C:/Users/a0415888/Documents/pwd/GIT_REPOS/C2000/c2000_lmp91400/DSP2803x_common/source/DSP2803x_SysCtrl.c"
+'Finished building: C:/Users/a0415888/Documents/pwd/GIT_REPOS/C2000/c2000_lmp91400/DSP2803x_common/source/DSP2803x_SysCtrl.c'
+' '
+'Building file: C:/Users/a0415888/Documents/pwd/GIT_REPOS/C2000/c2000_lmp91400/DSP2803x_common/source/DSP2803x_usDelay.asm'
+'Invoking: C2000 Compiler'
+"C:/ti/ccsv5/tools/compiler/c2000_6.2.0/bin/cl2000" -v28 -ml -mt --cla_support=cla0 --include_path="C:/ti/ccsv5/tools/compiler/c2000_6.2.0/include" --include_path="C:/Users/a0415888/Documents/pwd/GIT_REPOS/C2000/c2000_lmp91400/DSP2803x_common/include" --include_path="C:/Users/a0415888/Documents/pwd/GIT_REPOS/C2000/c2000_lmp91400/DSP2803x_headers/include" --include_path="C:/Users/a0415888/Documents/pwd/GIT_REPOS/C2000/c2000_lmp91400/code/common_files" -g --define="_DEBUG" --define="LARGE_MODEL" --diag_warning=225 --display_error_number --diag_wrap=off --preproc_with_compile --preproc_dependency="DSP2803x_usDelay.pp"  "C:/Users/a0415888/Documents/pwd/GIT_REPOS/C2000/c2000_lmp91400/DSP2803x_common/source/DSP2803x_usDelay.asm"
+'Finished building: C:/Users/a0415888/Documents/pwd/GIT_REPOS/C2000/c2000_lmp91400/DSP2803x_common/source/DSP2803x_usDelay.asm'
+' '
+'Building file: C:/Users/a0415888/Documents/pwd/GIT_REPOS/C2000/c2000_lmp91400/code/test_spi_commn/Example_2803xSpi_FFDLB.c'
+'Invoking: C2000 Compiler'
+"C:/ti/ccsv5/tools/compiler/c2000_6.2.0/bin/cl2000" -v28 -ml -mt --cla_support=cla0 --include_path="C:/ti/ccsv5/tools/compiler/c2000_6.2.0/include" --include_path="C:/Users/a0415888/Documents/pwd/GIT_REPOS/C2000/c2000_lmp91400/DSP2803x_common/include" --include_path="C:/Users/a0415888/Documents/pwd/GIT_REPOS/C2000/c2000_lmp91400/DSP2803x_headers/include" --include_path="C:/Users/a0415888/Documents/pwd/GIT_REPOS/C2000/c2000_lmp91400/code/common_files" -g --define="_DEBUG" --define="LARGE_MODEL" --diag_warning=225 --display_error_number --diag_wrap=off --preproc_with_compile --preproc_dependency="Example_2803xSpi_FFDLB.pp"  "C:/Users/a0415888/Documents/pwd/GIT_REPOS/C2000/c2000_lmp91400/code/test_spi_commn/Example_2803xSpi_FFDLB.c"
+'Finished building: C:/Users/a0415888/Documents/pwd/GIT_REPOS/C2000/c2000_lmp91400/code/test_spi_commn/Example_2803xSpi_FFDLB.c'
+' '
+'Building file: C:/Users/a0415888/Documents/pwd/GIT_REPOS/C2000/c2000_lmp91400/code/common_files/lmp91400_spi.c'
+'Invoking: C2000 Compiler'
+"C:/ti/ccsv5/tools/compiler/c2000_6.2.0/bin/cl2000" -v28 -ml -mt --cla_support=cla0 --include_path="C:/ti/ccsv5/tools/compiler/c2000_6.2.0/include" --include_path="C:/Users/a0415888/Documents/pwd/GIT_REPOS/C2000/c2000_lmp91400/DSP2803x_common/include" --include_path="C:/Users/a0415888/Documents/pwd/GIT_REPOS/C2000/c2000_lmp91400/DSP2803x_headers/include" --include_path="C:/Users/a0415888/Documents/pwd/GIT_REPOS/C2000/c2000_lmp91400/code/common_files" -g --define="_DEBUG" --define="LARGE_MODEL" --diag_warning=225 --display_error_number --diag_wrap=off --preproc_with_compile --preproc_dependency="lmp91400_spi.pp"  "C:/Users/a0415888/Documents/pwd/GIT_REPOS/C2000/c2000_lmp91400/code/common_files/lmp91400_spi.c"
+"C:/Users/a0415888/Documents/pwd/GIT_REPOS/C2000/c2000_lmp91400/code/common_files/lmp91400_spi.c", line 62: warning #552-D: variable "rdata" was set but never used
+'Finished building: C:/Users/a0415888/Documents/pwd/GIT_REPOS/C2000/c2000_lmp91400/code/common_files/lmp91400_spi.c'
+' '
+'Building target: test_spi_commn.out'
+'Invoking: C2000 Linker'
+"C:/ti/ccsv5/tools/compiler/c2000_6.2.0/bin/cl2000" -v28 -ml -mt --cla_support=cla0 -g --define="_DEBUG" --define="LARGE_MODEL" --diag_warning=225 --display_error_number --diag_wrap=off -z -m"test_spi_commn.map" --stack_size=0x300 --warn_sections -i"C:/ti/ccsv5/tools/compiler/c2000_6.2.0/lib" -i"C:/ti/ccsv5/tools/compiler/c2000_6.2.0/include" -i"C:/Users/a0415888/Documents/pwd/GIT_REPOS/C2000/c2000_lmp91400/test_spi_commn" -i"C:/ti/controlSUITE/device_support/f2803x/v127/DSP2803x_common/lib" --reread_libs --display_error_number --diag_wrap=off --xml_link_info="test_spi_commn_linkInfo.xml" --rom_model -o "test_spi_commn.out"  "./lmp91400_spi.obj" "./Example_2803xSpi_FFDLB.obj" "./DSP2803x_usDelay.obj" "./DSP2803x_SysCtrl.obj" "./DSP2803x_Spi.obj" "./DSP2803x_PieVect.obj" "./DSP2803x_PieCtrl.obj" "./DSP2803x_GlobalVariableDefs.obj" "./DSP2803x_DefaultIsr.obj" "./DSP2803x_CodeStartBranch.obj" "../28035_RAM_lnk.cmd" "C:/Users/a0415888/Documents/pwd/GIT_REPOS/C2000/c2000_lmp91400/DSP2803x_headers/cmd/DSP2803x_Headers_nonBIOS.cmd" 
+<Linking>
+'Finished building target: test_spi_commn.out'
+' '
+
+**** Build Finished ****
