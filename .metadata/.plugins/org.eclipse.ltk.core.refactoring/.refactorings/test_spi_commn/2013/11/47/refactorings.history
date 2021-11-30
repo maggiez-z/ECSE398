@@ -1,3 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">&#x0A;<refactoring comment="Rename resource &apos;test_spi_commn/lmp91400.h&apos; to &apos;lmp91400_spi1.h&apos;" description="Rename resource &apos;lmp91400.h&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="lmp91400.h" name="lmp91400_spi1.h" stamp="1385081348589" updateReferences="true"/>&#x0A;<refactoring comment="Rename resource &apos;test_spi_commn/lmp91400_spi1.h&apos; to &apos;lmp91400_spi.h&apos;" description="Rename resource &apos;lmp91400_spi1.h&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="lmp91400_spi1.h" name="lmp91400_spi.h" stamp="1385081370471" updateReferences="true"/>
-</session>
